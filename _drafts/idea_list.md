@@ -13,3 +13,5 @@ Ethics of AI and Phariseeism
 A small proposal for whether AI is useful.
   - public health & $$$
 
+Dissecting Jordan Peterson's extrapolations
+
