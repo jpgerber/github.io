@@ -1,0 +1,7 @@
+title: J. P. Gerber blog
+description: Thoughts from the multiple award winning data scientist and psychologist
+url: "https://jpgerber.github.io"
+theme: minima
+plugins:
+  - jekyll-feed
+  
