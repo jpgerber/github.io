@@ -17,3 +17,4 @@ A small proposal for whether AI is useful.
 
 Dissecting Jordan Peterson's extrapolations
 
+Nemesius and the resolution of our 'specialness' - a knot, a holding point on a strring, two axes joined, nothing?
